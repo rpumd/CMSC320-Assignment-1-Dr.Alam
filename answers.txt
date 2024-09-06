@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: One field that data science could be applied to is economics; contemporary economic research is heavily based on statistics and quantitative analysis, and so data science is very useful because it allows economists to gain better insights using data.
